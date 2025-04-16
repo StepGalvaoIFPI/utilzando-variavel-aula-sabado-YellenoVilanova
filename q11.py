@@ -1,5 +1,4 @@
-a = float(7.5)
-b = float(8.8)
-media = ((a*3.5)+(7.5*b))/11
-print(media)
-
+pi = 3.1415
+raio = 12
+area = (pi*(raio**2))
+print(area)
