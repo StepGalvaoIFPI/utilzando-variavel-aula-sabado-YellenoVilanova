@@ -1,6 +1,4 @@
-num1 = 10
-num2 = 5
-num3 = 8
-media = (num1 + num2 + num3)/3
-print(media)
-
+a = 3
+b = 5
+resultado = 2*a*3*b
+print(resultado)
